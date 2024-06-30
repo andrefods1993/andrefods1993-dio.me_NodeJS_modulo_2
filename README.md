@@ -1,7 +1,6 @@
 <h1 align="center">Carrinho de Compras da Shopee com Node.js</h1>
-<div align="center">
-    ![image](https://github.com/andrefods1993/andrefods1993-dio.me_NodeJS_modulo_2/assets/132412680/882c50a9-8eed-4225-83c9-bb4926e214c0)
-</div>
+
+![image](https://github.com/andrefods1993/andrefods1993-dio.me_NodeJS_modulo_2/assets/132412680/882c50a9-8eed-4225-83c9-bb4926e214c0)
 
 ## 📎 Sumário
 
