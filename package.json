@@ -1,0 +1,14 @@
+{
+	"name": "shopee-cart",
+	"version": "1.0.0",
+	"main": "main.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node --watch src/main.js"
+	},
+	"keywords": [],
+	"author": "André Filipe",
+	"license": "ISC",
+	"description": "Shopping cart application, similar to Shopee. The shopping cart will store items and automatically calculate subtotals."
+}
